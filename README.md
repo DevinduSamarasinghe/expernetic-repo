@@ -1,2 +1,3 @@
-# expernetic-repo
-Expernetic Interview Assignment
+### Expernetic Interview Assignment
+
+Devindu Samarasinghe
